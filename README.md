@@ -14,6 +14,7 @@ I’m currently developing a Budget Manager application with Next.js, working on
 
 **What do you work on?**  
 I mainly focus on web and mobile projects, building clean and efficient solutions.
+- [Budget manager](https://github.com/cyril-fl/Next.js_budget_manager) — Personal finance management tool
 
 **How can I contact you?**  
 You can reach me at  [mail](cyril-f@hotmail.com) | [Linked In](www.linkedin.com/in/cyril-flambard-b016a8260)

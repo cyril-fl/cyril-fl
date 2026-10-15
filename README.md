@@ -10,7 +10,7 @@ Curious and passionate about new technologies, I'm always seeking challenges tha
 Recently, I worked as a front-end developer trainee at Pushapp in Naples (01.2025 – 03.2025), creating responsive web interfaces, collaborating with design and back-end teams, and independently managing client feedback integration.
 
 **What are you currently learning?**  
-I’m currently developing a Budget Manager application with Next.js, working on both front-end interfaces and back-end API routes. This project helps me strengthen my full-stack skills
+I’m currently developing a CLI game engine to play tabletop RPGs like D&D on my own when I’m bored... and accessorily to learn Go as well.
 
 **What do you work on?**  
 I mainly focus on web and mobile projects, building clean and efficient solutions.
